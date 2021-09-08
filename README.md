@@ -1,3 +1,3 @@
 # HackerEarthPractice
 
-Practice coding problems from HackerEarth. Both in C++ and Python
+Practice coding problems from HackerEarth and HackerRank. Both in C++ and Python
